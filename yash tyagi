@@ -1,0 +1,15 @@
+<doctype html>
+<html>
+<head>
+<title>hy guys</title>
+</head>
+<body bgcolor="#EBF4FA">
+<h1>kaise he app log</h1>
+<form>
+<input type="checkbox" name="maths"> maths
+<input type="checkbox" name="science"> science
+</form>
+<form>
+<table>
+<tr>
+<th>
